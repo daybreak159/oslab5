@@ -10,5 +10,5 @@
 !lab2分支任务.md
 
 # Ignore build artifacts (optional but recommended for C/C++ projects)
-obj/
-bin/
+# obj/
+# bin/
