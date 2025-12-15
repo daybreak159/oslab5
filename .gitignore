@@ -1,0 +1,14 @@
+# Ignore log files
+*.log
+
+# Ignore all markdown files
+*.md
+
+# Exception: Keep specific markdown files
+!实验报告.md
+!lab5分支任务.md
+!lab2分支任务.md
+
+# Ignore build artifacts (optional but recommended for C/C++ projects)
+obj/
+bin/
